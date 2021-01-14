@@ -1,4 +1,4 @@
-# Roles Monetizer App
+# IoT Monetizer App
 
 natural collaboration engine / social monetization protocol - PoC
 
